@@ -1,8 +1,10 @@
-## Hey! Eu sou a Natalie, estudante de programação e tecnologia!
+Hey! Eu sou a Natalie, estudante de programação e tecnologia!
+
+# # 
  <div>
   <a href="https://github.com/nataliecristine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliecristine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecristine&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliecristine&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecristine&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +14,7 @@
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Rafa-yoda"  height="210" width="205" src="https://github.com/nataliecristine/nataliecristine/assets/82424680/78d92b73-2e3b-447e-9b3c-1fc577057ee5">
+ <img align="right" alt="Nat-London"  height="210" width="210" src="https://github.com/nataliecristine/nataliecristine/assets/82424680/78d92b73-2e3b-447e-9b3c-1fc577057ee5">
 </div>
   
   ##
