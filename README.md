@@ -14,7 +14,7 @@ Hey! Eu sou a Natalie, estudante de programação e tecnologia!
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Nat-London"  height="210" width="210" src="https://github.com/nataliecristine/nataliecristine/assets/82424680/78d92b73-2e3b-447e-9b3c-1fc577057ee5">
+ 
 </div>
   
   ##
